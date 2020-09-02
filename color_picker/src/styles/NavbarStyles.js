@@ -12,7 +12,7 @@ export default {
     padding: '0 13px',
     fontSize: '22px',
     backgroundColor: '#eceff1',
-    fontFamily: 'Roboto',
+    fontFamily: 'Helvetica Neue',
     height: '100%',
     display: 'flex',
     alignItems: 'center',
